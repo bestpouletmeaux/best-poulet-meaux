@@ -1,0 +1,36 @@
+BEST POULET — SITE VITRINE GRATUIT POUR GITHUB PAGES
+
+CONTENU
+- index.html : page d'accueil du site
+- assets/ : logo officiel et visuels de carte fournis
+
+AVANT DE PUBLIER
+1. Vérifier le téléphone : 01 78 71 28 37.
+2. Vérifier l'adresse : 50 rue du Faubourg Saint-Nicolas, 77100 Meaux.
+3. Vérifier les horaires indiqués sur le site : tous les jours, 11 h 30 à 23 h.
+4. Vérifier les prix et compositions de menus.
+5. Les visuels de carte sont intégrés comme images. Pour un meilleur référencement, il sera utile de compléter ensuite la carte en texte HTML.
+
+PUBLIER SUR GITHUB PAGES (SANS FRAIS)
+1. Créer un compte sur https://github.com/
+2. Cliquer sur + puis New repository.
+3. Nommer le dépôt : best-poulet-meaux
+4. Choisir Public, puis Create repository.
+5. Ouvrir le dépôt et cliquer Add file > Upload files.
+6. Décompresser ce ZIP sur l'ordinateur. Glisser index.html et le dossier assets (pas le dossier parent best-poulet-github) dans l'écran Upload files.
+7. Cliquer Commit changes.
+8. Dans le dépôt, ouvrir Settings > Pages.
+9. Dans Build and deployment, choisir Deploy from a branch.
+10. Branch : main ; dossier : /(root) ; cliquer Save.
+11. Attendre la publication, puis ouvrir l'adresse affichée dans Settings > Pages. Elle ressemble à https://VOTRE-NOM.github.io/best-poulet-meaux/
+
+POUR MODIFIER PLUS TARD
+- Dans GitHub, ouvrir index.html puis cliquer sur le crayon (Edit).
+- Faire les modifications, puis Commit changes.
+- Pour remplacer une image, ouvrir le dossier assets et téléverser une nouvelle image avec le même nom de fichier.
+- Le bouton « Appeler pour commander » utilise le lien tel:+33178712837. Vérifier le numéro avant publication.
+
+À SAVOIR
+- GitHub Pages héberge gratuitement les sites statiques publics dans le cadre de son offre.
+- L'adresse gratuite est un sous-domaine github.io. Un nom de domaine personnalisé .fr/.com n'est pas inclus.
+- La publication ne garantit pas une première place sur Google. Après publication, ajouter l'URL dans Google Search Console.
