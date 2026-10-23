@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bestpouletmeaux.github.io/best-poulet-meaux/sitemap.xml
+Sitemap: https://bestpouletmeaux.github.io/sitemap.xml
